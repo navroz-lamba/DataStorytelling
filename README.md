@@ -7,6 +7,18 @@
 
 Built a narrative around a set of data, and accompanying visualizations to help convey the sense of competition between the two biggest rivalries of all times; Boeing and Airbus.
 
+## Overview of the project 
+
+•	Datasets of Boeing and Airbus were merged together 
+
+•	Performed Data Wrangling to remove the noise from the data
+
+•	New verticals were created using feature engineering for better insights 
+
+•	Exploratory data analysis was performed using numpy, matplotlib, seaborn and pandas
+
+•	Selected the best visualizations to compare information, clarify meaning and put story into proper context
+
 ## Applied Skills: 
 
 • Data Wrangling
